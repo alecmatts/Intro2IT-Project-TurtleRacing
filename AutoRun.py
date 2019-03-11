@@ -1,3 +1,5 @@
+## lol lần 2 vì tại sao không
+
 import os
 from turtle import *
 from tkinter import *
